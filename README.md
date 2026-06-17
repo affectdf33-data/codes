@@ -1,4 +1,4 @@
-# AAffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks
+# AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks
 
 This repository contains score files and inference outputs used for evaluating speech deepfake detection systems on AffectDF and related benchmark datasets.
 
