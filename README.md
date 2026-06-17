@@ -6,7 +6,7 @@ The repository includes:
 
 * score files from SDD models trained on AffectDF and evaluated across multiple datasets,
 * inference outputs from large audio-language model (LALM)-based detectors,
-* repeated inference runs where applicable.
+* Model checkpoints trained on AffectDF
 
 This repository is intended to support reproducibility and analysis for AffectDF-related experiments.
 
